@@ -14,7 +14,7 @@ class BMICalculator extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'MyApp',
       theme: ThemeData(primarySwatch: Colors.blue),
-      home: SplashScreen(),
+      home: HomePage(),
     );
   }
 }
